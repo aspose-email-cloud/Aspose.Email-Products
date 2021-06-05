@@ -23,7 +23,7 @@ Build cloud-based email delivery & storage solutions via C# and other .NET suppo
 PHP REST SDK to enhance your PHP cloud-based applications to send emails and perform cloud folder management.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.cloud/email/family" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/email/family" innerText="View All Cloud APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
