@@ -6,7 +6,7 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Email Management & Archiving Solution" h2="Build desktop, web & cloud-based email apps via our on premise APIs & cloud SDKs or use our free online apps to view & convert email messages using browser." logoImageSrc="https://www.aspose.com/templates/brand/images/email/aspose_email-brand.png" imageAlt="Aspose.Email Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Email Management & Archiving Solution" h2="Build desktop, web & cloud-based email apps via our on premise APIs & cloud SDKs or use our free online apps to view & convert email messages using browser." logoImageSrc="/headers/aspose_email-brand.png" imageAlt="Aspose.Email Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email Cloud APIs Include" >}}
