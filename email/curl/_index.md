@@ -189,21 +189,19 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Email" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/curl" imgSrc="/sdk/aspose_email-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/curl/" imgSrc="/sdk/aspose_email-for-curl.png" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/net" imgSrc="/sdk/aspose_email-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="/sdk/aspose_email-for-net.png" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/java" imgSrc="/sdk/aspose_email-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="/sdk/aspose_email-for-java.png" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/php" imgSrc="/sdk/aspose_email-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/php/" imgSrc="/sdk/aspose_email-for-php.png" platform="PHP" >}}
 	
-	{{< blocks/products/pf/offers-section-item link="/email/android" imgSrc="/sdk/aspose_email-for-android.png" platform="Android" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-python.png" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/python" imgSrc="/sdk/aspose_email-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/ruby" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
-	
-    {{< blocks/products/pf/offers-section-item link="/email/nodejs" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
