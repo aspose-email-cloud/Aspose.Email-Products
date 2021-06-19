@@ -35,7 +35,7 @@ Simple REST API for managing cloud emails in your Python applications. Control e
 Build cloud email applications in Ruby via REST API. Send, receive, append, convert and manage emails in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_email-for-node.png" productLink="/email/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_email-for-node.png" productLink="/email/nodejs/" >}}
 REST API to create, deliver and store cloud emails via your Node.js applications.
 {{< /blocks/products/pf/product >}}
 

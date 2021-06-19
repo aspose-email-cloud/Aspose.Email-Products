@@ -175,7 +175,7 @@ url: /curl
 {{< blocks/products/pf/slr-element name="Free Support" href="https://forum.aspose.cloud/c/email" >}}
 {{< blocks/products/pf/slr-element name="Paid Support" href="https://helpdesk.aspose.cloud" >}}
 {{< blocks/products/pf/slr-element name="Blog" href="https://blog.aspose.cloud/category/email/" >}}
-{{< blocks/products/pf/slr-element name="Aspose.Email Blog" href="https://blog.aspose.cloud/category/email/" >}}
+
 {{< /blocks/products/pf/slr-tab >}}
 
 {{< blocks/products/pf/slr-tab tabTitle="Why Aspose.Email Cloud for cURL?" tabId="success-stories" >}}
@@ -201,7 +201,7 @@ url: /curl
 	
     {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

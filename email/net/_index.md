@@ -200,7 +200,7 @@ url: /net
 	
     {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

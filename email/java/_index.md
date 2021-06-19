@@ -10,7 +10,7 @@ url: /java
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="Cloud SDK for Java" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://github.com/aspose-email-cloud/aspose-email-cloud-java" directDownloadLink="https://github.com/aspose-email-cloud" liveDemosLink="https://products.aspose.app/email/family">}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-java.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud/aspose-email-cloud-java" liveDemosLink="https://products.aspose.app/email/family">}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Email Cloud SDK for Java helps cloud platform developers to quickly build cloud-based Java applications for sending emails with MIME and OAuth support.</p>
@@ -201,7 +201,7 @@ url: /java
 	
     {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

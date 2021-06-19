@@ -10,7 +10,7 @@ url: /php
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="Cloud SDK for PHP" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-php.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud/aspose-email-cloud-node" liveDemosLink="https://products.aspose.app/email/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-php.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud/aspose-email-cloud-php" liveDemosLink="https://products.aspose.app/email/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Email Cloud SDK for PHP is for developers who want to create cloud mail solutions in PHP with ease. Our Email ERST API for PHP lets you send and receive emails with the OAuth feature for common email formats, such as EML and MSG. It also allows you to organize the emails in the cloud by creating a folder structure. You can append emails, apply email attachments, download email attachments as well as mark special emails with a red flag. You can also convert basic Microsoft Outlook and other email formats (MSG & EML) using PHP cloud SDK.</p>
@@ -200,7 +200,7 @@ url: /php
 	
     {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}
