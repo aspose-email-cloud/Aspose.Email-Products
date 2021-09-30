@@ -6,36 +6,36 @@ url: /family
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Build Email Management & Archiving Cloud Apps" h2="Cloud SDKs to send, receive, append, flag and convert cloud emails & support to create folder structure for email archiving in the cloud." logoImageSrc="/headers/aspose_email.png" pfName="Aspose.Email" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Build Email Management & Archiving Cloud Apps" h2="Cloud SDKs to send, receive, append, flag and convert cloud emails & support to create folder structure for email archiving in the cloud." logoImageSrc="/headers/aspose_email.svg" pfName="Aspose.Email" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud for cURL" imgSrc="/sdk/aspose_email-for-curl.png" productLink="/email/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud for cURL" imgSrc="/sdk/aspose_email-for-curl.svg" productLink="/email/curl/" >}}
 cURL REST API for email management and archiving. Send, receive, and store emails in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_email-for-net.png" productLink="/email/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_email-for-net.svg" productLink="/email/net/" >}}
 Create C# and .NET applications for cloud email delivery and storage. Send, receive, append, and flag cloud emails.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Java" imgSrc="/sdk/aspose_email-for-java.png" productLink="/email/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Java" imgSrc="/sdk/aspose_email-for-java.svg" productLink="/email/java/" >}}
 Enhance your Java cloud-based apps to send and manage emails in the cloud. Supports simple or MIME email with OAuth.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_email-for-php.png" productLink="/email/php/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_email-for-php.svg" productLink="/email/php/" >}}
 PHP REST API for sending simple or MIME type cloud emails with OAuth support. Perform email cloud folder management.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Python" imgSrc="/sdk/aspose_email-for-python.png" productLink="/email/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Python" imgSrc="/sdk/aspose_email-for-python.svg" productLink="/email/python/" >}}
 Simple REST API for managing cloud emails in your Python applications. Control email delivery and storage in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_email-for-ruby.png" productLink="/email/ruby/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_email-for-ruby.svg" productLink="/email/ruby/" >}}
 Build cloud email applications in Ruby via REST API. Send, receive, append, convert and manage emails in the cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_email-for-node.png" productLink="/email/nodejs/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_email-for-node.svg" productLink="/email/nodejs/" >}}
 REST API to create, deliver and store cloud emails via your Node.js applications.
 {{< /blocks/products/pf/product >}}
 

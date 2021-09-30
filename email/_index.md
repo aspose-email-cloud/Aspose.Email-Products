@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="Email Management & Archiving Solution" h2="Build desktop, web & cloud-based email apps via our on premise APIs & cloud SDKs or use our free online apps to view & convert email messages using browser." logoImageSrc="/headers/aspose_email-brand.png" imageAlt="Aspose.Email Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="Email Management & Archiving Solution" h2="Build desktop, web & cloud-based email apps via our on premise APIs & cloud SDKs or use our free online apps to view & convert email messages using browser." logoImageSrc="/headers/aspose_email-brand.svg" imageAlt="Aspose.Email Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.Email Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud for cURL" imgSrc="/sdk/aspose_email-for-curl.png" productLink="/email/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud for cURL" imgSrc="/sdk/aspose_email-for-curl.svg" productLink="/email/curl/" >}}
 Perform email management and archiving using cURL commands via REST API. Supports MSG & EML formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_email-for-net.png" productLink="/email/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_email-for-net.svg" productLink="/email/net/" >}}
 Build cloud-based email delivery & storage solutions via C# and other .NET supported programming languages.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_email-for-php.png" productLink="/email/php/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_email-for-php.svg" productLink="/email/php/" >}}
 PHP REST SDK to enhance your PHP cloud-based applications to send emails and perform cloud folder management.
 {{< /blocks/products/pf/product >}}
 
@@ -37,7 +37,7 @@ Create, send & convert emails via .NET on-premise libraries. Supports C#, ASP.NE
 Build email sender and converter apps for desktop & web using Java on premise API. 
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/email/272x272/aspose_email-for-cpp.png" productLink="https://products.aspose.com/email/cpp/" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for " title="C++" imgSrc="https://www.aspose.cloud/templates/aspose/img/products/cells/aspose_cells-for-cpp.svg" productLink="https://products.aspose.com/email/cpp/" >}}
 Native C++ API to develop desktop & web-based email sender, archiver and conversion applications.
 {{< /blocks/products/pf/product >}}
 

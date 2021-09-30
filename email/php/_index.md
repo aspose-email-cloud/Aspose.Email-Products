@@ -6,11 +6,11 @@ url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Send Emails via Your PHP Apps using REST API" h2="PHP cloud SDK to build email management applications to create and organize emails (MSG & EML) in the cloud." logoImageSrc="/headers/aspose_email-for-php.png" pfName="Aspose.Email" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Send Emails via Your PHP Apps using REST API" h2="PHP cloud SDK to build email management applications to create and organize emails (MSG & EML) in the cloud." logoImageSrc="/headers/aspose_email-for-php.svg" pfName="Aspose.Email" subTitlepfName="Cloud SDK for PHP" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="Cloud SDK for PHP" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-php.png"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud/aspose-email-cloud-php" liveDemosLink="https://products.aspose.app/email/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-php.svg"  PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud/aspose-email-cloud-php" liveDemosLink="https://products.aspose.app/email/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Email Cloud SDK for PHP is for developers who want to create cloud mail solutions in PHP with ease. Our Email ERST API for PHP lets you send and receive emails with the OAuth feature for common email formats, such as EML and MSG. It also allows you to organize the emails in the cloud by creating a folder structure. You can append emails, apply email attachments, download email attachments as well as mark special emails with a red flag. You can also convert basic Microsoft Outlook and other email formats (MSG & EML) using PHP cloud SDK.</p>
@@ -34,7 +34,7 @@ url: /php
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_email-for-php.png" alt="PHP Email Cloud"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_email-for-php.svg" alt="PHP Email Cloud"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -49,7 +49,7 @@ url: /php
 <div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_email-for-php.png" alt="PHP Cloud for EML & MSG"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_email-for-php.svg" alt="PHP Cloud for EML & MSG"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -188,19 +188,19 @@ url: /php
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Email" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/curl/" imgSrc="/sdk/aspose_email-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/curl/" imgSrc="/sdk/aspose_email-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="/sdk/aspose_email-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="/sdk/aspose_email-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="/sdk/aspose_email-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="/sdk/aspose_email-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/php/" imgSrc="/sdk/aspose_email-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/php/" imgSrc="/sdk/aspose_email-for-php.svg" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.svg" platform="Node.js" >}}
 {{< /blocks/products/pf/offers-section >}}
 
 {{< /blocks/products/pf/main-wrap-class >}}

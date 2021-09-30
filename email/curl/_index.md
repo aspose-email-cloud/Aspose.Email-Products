@@ -6,11 +6,11 @@ url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manage emails in Cloud using cURL REST API" h2="Use cURL to send simple or MIME emails, create email folders, attach files, download email attachments & convert email message format." logoImageSrc="/headers/aspose_email-for-curl.png" pfName="Aspose.Email" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Manage emails in Cloud using cURL REST API" h2="Use cURL to send simple or MIME emails, create email folders, attach files, download email attachments & convert email message format." logoImageSrc="/headers/aspose_email-for-curl.svg" pfName="Aspose.Email" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-curl.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud" liveDemosLink="https://products.aspose.app/email/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-curl.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud" liveDemosLink="https://products.aspose.app/email/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Email Cloud for cURL is a quick solution for cURL developers to build simple cloud-based email management programs using cURL. It supports OAuth allows you to send simple or MIME email messages with or without attachments. You can append multiple email messages, download email attachments, mark emails with a red flag, fetch email details, create email folders and convert email message formats, all by using simple cURL commands.</p>
@@ -34,7 +34,7 @@ url: /curl
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_email-for-curl.png" alt="cURL Email Cloud"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_email-for-curl.svg" alt="cURL Email Cloud"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -49,7 +49,7 @@ url: /curl
 <div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_email-for-curl.png" alt="cURL Cloud for EML & MSG"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_email-for-curl.svg" alt="cURL Cloud for EML & MSG"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -189,19 +189,19 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Email" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/curl/" imgSrc="/sdk/aspose_email-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/curl/" imgSrc="/sdk/aspose_email-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="/sdk/aspose_email-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="/sdk/aspose_email-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="/sdk/aspose_email-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="/sdk/aspose_email-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/php/" imgSrc="/sdk/aspose_email-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/php/" imgSrc="/sdk/aspose_email-for-php.svg" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.svg" platform="Node.js" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 

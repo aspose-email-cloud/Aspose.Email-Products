@@ -6,11 +6,11 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Use Ruby REST API to Send Cloud Emails" h2="Create a simple cloud email management application in Ruby for sending, appending, converting and managing emails (MSG & EML)." logoImageSrc="/headers/aspose_email-for-ruby.png" pfName="Aspose.Email" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Use Ruby REST API to Send Cloud Emails" h2="Create a simple cloud email management application in Ruby for sending, appending, converting and managing emails (MSG & EML)." logoImageSrc="/headers/aspose_email-for-ruby.svg" pfName="Aspose.Email" subTitlepfName="Cloud SDK for Ruby" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.Email" subTitlepfName="Cloud SDK for Ruby" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-ruby.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud/aspose-email-cloud-ruby" liveDemosLink="https://products.aspose.app/email/family"  >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_email-for-ruby.svg" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/email" directDownloadLink="https://github.com/aspose-email-cloud/aspose-email-cloud-ruby" liveDemosLink="https://products.aspose.app/email/family"  >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.Email Cloud SDK for Ruby is based on REST API that helps Ruby developers seamlessly integrate email management and archiving features into their cloud-based applications. You can send simple or MIME type cloud email messages using Ruby language with OAuth support. Attach files to your cloud emails for sending or downloading. Your cloud-based Ruby applications will be able to create a folder structure for storing emails in the cloud. Our Ruby Email Cloud SDK supports to work with MSG and EML email formats.</p>
@@ -34,7 +34,7 @@ url: /ruby
 </ul></div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_email-for-ruby.png" alt="Ruby Email Cloud"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_email-for-ruby.svg" alt="Ruby Email Cloud"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
 <!--/logo--></div>
 <!--/diagram1-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -49,7 +49,7 @@ url: /ruby
 <div class="d1-col d1-right"> </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_email-for-ruby.png" alt="Ruby Cloud for EML & MSG"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_email-for-ruby.svg" alt="Ruby Cloud for EML & MSG"><header>Aspose.Email</header><footer>Cloud <small> <em>for </em> </small>Ruby</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 {{< /blocks/products/pf/carousel-item >}}
@@ -188,19 +188,19 @@ url: /ruby
 
 {{< blocks/products/pf/offers-section pfName="Aspose.Email" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/email/curl/" imgSrc="/sdk/aspose_email-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/curl/" imgSrc="/sdk/aspose_email-for-curl.svg" platform="cURL" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="/sdk/aspose_email-for-net.png" platform=".NET" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/net/" imgSrc="/sdk/aspose_email-for-net.svg" platform=".NET" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="/sdk/aspose_email-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/java/" imgSrc="/sdk/aspose_email-for-java.svg" platform="Java" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/php/" imgSrc="/sdk/aspose_email-for-php.png" platform="PHP" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/php/" imgSrc="/sdk/aspose_email-for-php.svg" platform="PHP" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-python.png" platform="Python" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/python/" imgSrc="/sdk/aspose_email-for-python.svg" platform="Python" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.png" platform="Ruby" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/ruby/" imgSrc="/sdk/aspose_email-for-ruby.svg" platform="Ruby" >}}
 	
-    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/email/nodejs/" imgSrc="/sdk/aspose_email-for-node.svg" platform="Node.js" >}}
 
 {{< /blocks/products/pf/offers-section >}}
 
