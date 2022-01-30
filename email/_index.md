@@ -9,7 +9,7 @@ url: /
 {{< blocks/products/pf/family-upper-banner h1="Email Management & Archiving Solution" h2="Build desktop, web & cloud-based email apps via our on premise APIs & cloud SDKs or use our free online apps to view & convert email messages using browser." logoImageSrc="/headers/aspose_email-brand.svg" imageAlt="Aspose.Email Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Email Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Email Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud for cURL" imgSrc="/sdk/aspose_email-for-curl.svg" productLink="/email/curl/" >}}
 Perform email management and archiving using cURL commands via REST API. Supports MSG & EML formats.
@@ -23,11 +23,11 @@ Build cloud-based email delivery & storage solutions via C# and other .NET suppo
 PHP REST SDK to enhance your PHP cloud-based applications to send emails and perform cloud folder management.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="/email/family/" innerText="View All Cloud APIs" >}}
+{{< blocks/products/pf/center-button href="/email/family/" innerText="View All Low Code APIs" >}}
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Email On Premise APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Email High Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email for " title=".NET" imgSrc="/product-logos/aspose_email-for-net.svg" productLink="https://products.aspose.com/email/net" >}}
 Create, send & convert emails via .NET on-premise libraries. Supports C#, ASP.NET, VB.NET & other .NET languages.
@@ -45,7 +45,7 @@ Native C++ API to develop desktop & web-based email sender, archiver and convers
 
 {{< /blocks/products/pf/product-card-row >}}
 
-{{< blocks/products/pf/product-card-row title="Aspose.Email Cross Platform Apps Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Email No Code Apps Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email " title="Conversion" imgSrc="https://www.aspose.cloud/templates/asposeapp/images/products/logo/aspose_conversion-app.png" productLink="https://products.aspose.app/email/conversion" >}}
 Convert your email messages and archives for free. Online email format converter app.
@@ -59,7 +59,7 @@ Upload email message archives to view their content in the browser. Free online 
 Free online app to analyze email headers. Get IP location of email sender or intermediate server information.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/center-button href="https://products.aspose.app/email/family" innerText="View All Cross Platform Apps" >}}
+{{< blocks/products/pf/center-button href="https://products.aspose.app/email/family" innerText="View All No Code Apps" >}}
 
 
 {{< /blocks/products/pf/main-container >}}

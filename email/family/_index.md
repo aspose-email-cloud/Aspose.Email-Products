@@ -9,7 +9,7 @@ url: /family
 {{< blocks/products/pf/upper-banner h1="Build Email Management & Archiving Cloud Apps" h2="Cloud SDKs to send, receive, append, flag and convert cloud emails & support to create folder structure for email archiving in the cloud." logoImageSrc="/headers/aspose_email.svg" pfName="Aspose.Email" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
-{{< blocks/products/pf/product-card-row title="Aspose.Email Cloud APIs Include" >}}
+{{< blocks/products/pf/product-card-row title="Aspose.Email Low Code APIs Include" >}}
 
 {{< blocks/products/pf/product pfName="Aspose.Email" title="Cloud for cURL" imgSrc="/sdk/aspose_email-for-curl.svg" productLink="/email/curl/" >}}
 cURL REST API for email management and archiving. Send, receive, and store emails in the cloud.
