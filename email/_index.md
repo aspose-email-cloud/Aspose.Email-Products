@@ -29,7 +29,7 @@ PHP REST SDK to enhance your PHP cloud-based applications to send emails and per
 
 {{< blocks/products/pf/product-card-row title="Aspose.Email High Code APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.Email for " title=".NET" imgSrc="/product-logos/aspose_email-for-net.svg" productLink="https://products.aspose.com/email/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.Email for " title=".NET" imgSrc="/product-logos/aspose_email-for-net.svg" productLink="https://products.aspose.com/email/net/" >}}
 Create, send & convert emails via .NET on-premise libraries. Supports C#, ASP.NET, VB.NET & other .NET languages.
 {{< /blocks/products/pf/product >}}
 
